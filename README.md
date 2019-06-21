@@ -10,4 +10,4 @@ This applicatiion uses Firebase Features, and some third party libraries such as
 THIS APPLICATION IS CURRETNLY IN DEVELOPING STAGE AND TO BE LAUNCHED SOON..
 
 
-added to codeship build and completed first build
+added to codeship build and completed multiple builds
