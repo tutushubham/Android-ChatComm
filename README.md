@@ -8,3 +8,6 @@ You can view all users in Real-time
 This applicatiion uses Firebase Features, and some third party libraries such as Picasso and GLide API's for handling Images
 
 THIS APPLICATION IS CURRETNLY IN DEVELOPING STAGE AND TO BE LAUNCHED SOON..
+
+
+added to codeship builds
